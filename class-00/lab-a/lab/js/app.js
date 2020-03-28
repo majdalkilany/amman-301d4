@@ -37,8 +37,7 @@ function displayPics(){
   }
   // TODO: In a sentence or two, explain why the previous line of code threw an error when we changed the variable declaration from `const to `const`.
   // PUT YOUR RESPONSE IN THIS COMMENT  
-  // the error was because the const is 
-  // bloced scop here its scoped  in the while statment  
+  // the error was because the const is bloced scop here its scoped  in the while statment  
   console.log(viewed);
 
   for (let i = 0; i < 3; i++){
